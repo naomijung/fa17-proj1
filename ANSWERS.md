@@ -17,6 +17,8 @@ I passed in the path to "trainers/" and concatenated that with the current train
 The pokemon that is being created with the new keyword causes an error due to the validations included in the Pokemon model. As a result, that pokemon has errors associated with it, and the error messages will be flashed on the form.
 
 # Give us feedback on the project and decal below!
-Everything has been pretty good so far! I think the project and the homeworks were manageable in terms of time requirement and difficulty. 
+Everything has been pretty good so far! I think the project and the homeworks were manageable in terms of time requirement and difficulty.
+
+Link to repo: https://github.com/naomijung/proj1
 
 # Extra credit: Link your Heroku deployed app
